@@ -4,7 +4,9 @@
 
 ### Descrição
 Este código Python realiza a análise espectral de um sinal composto por duas senóides e ruído branco. 
-O objetivo é demonstrar o uso da função `signal.spectrogram` da biblioteca SciPy para calcular e visualizar o espectrograma do sinal.
+
+### Objetivo:
+É demonstrar o uso da função `signal.spectrogram` da biblioteca SciPy para calcular e visualizar o espectrograma do sinal.
 
 ### Importação de bibliotecas: 
 Importa as bibliotecas NumPy, Matplotlib e SciPy, essenciais para operações numéricas, visualização e processamento de sinais, respectivamente.
